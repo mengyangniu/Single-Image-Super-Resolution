@@ -96,5 +96,4 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 [24] Tong Tong, Gen Li, Xiejie Liu, Qinquan Gao. Image Super-Resolution Using Dense Skip Connections. ICCV, 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
 
-
-
+[25] Ulyanov D, Vedaldi A, Lempitsky V. Deep Image Prior [[home page]](https://dmitryulyanov.github.io/deep_image_prior)[[paper]](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)[[supmat]](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer)[[code]](https://github.com/DmitryUlyanov/deep-image-prior) (brand new idea)
