@@ -86,7 +86,7 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 - [ ] [19] E. Agustsson, R. Timofte, L. Van Gool. Anchored Regression Networks applied to Age Estimation and Super Resolution, ICCV, 2017. [[paper]](http://www.vision.ee.ethz.ch/~timofter/publications/Agustsson-ICCV-2017.pdf)
 
-- [ ] **[20] Bee Lim, Sanghyun Son, Heewon Kim, Seungjun Nah, Kyoung Mu Lee. Enhanced Deep Residual Networks for Single Image Super-Resolution. CVPRW, 2017. [[paper]](https://arxiv.org/abs/1707.02921)(state-of-the-art) [[Code]](https://github.com/LimBee/NTIRE2017)**
+- [x] **[20] Bee Lim, Sanghyun Son, Heewon Kim, Seungjun Nah, Kyoung Mu Lee. Enhanced Deep Residual Networks for Single Image Super-Resolution. CVPRW, 2017. [[paper]](https://arxiv.org/abs/1707.02921)(state-of-the-art) [[Code]](https://github.com/LimBee/NTIRE2017)**
 
 - [ ] [21] Ying Tai, Jian Yang, Xiaoming Liu and Chunyan Xu. MemNet: A Persistent Memory Network for Image Restoration, ICCV, 2017. [[code]](https://github.com/tyshiwo/MemNet)
 
